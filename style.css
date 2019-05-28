@@ -1,0 +1,96 @@
+.Rectangle-1 {
+    width: 100%;
+    height: 111px;
+    background-color: #f8f8f8;
+    text-align: center;
+    padding: 18px;
+}
+
+.Rectangle-2 {
+    width: 100%;
+    height: 111px;
+
+    text-align: center;
+    padding: 28px;
+}
+
+.Group-5 {
+    width: 227px;
+    height: 66px;
+    object-fit: contain;
+
+
+
+}
+
+.Your-booking-is-conf-div {
+    width: 100%;
+    text-align: center;
+    padding-top: 15px;
+
+}
+
+.Line-6 {
+    text-align: center;
+
+    width: 790px;
+    height: 3px;
+    border: solid 1px #dddddd;
+}
+
+.Shape {
+    width: 109px;
+    height: 105px;
+    background-color: #26cf9e;
+}
+
+.Mail---Instant-Booking-Confirmation {
+    width: 915px;
+    height: 1289px;
+    background-color: #ffffff;
+
+}
+
+.Booking-Confirmed-wi {
+    padding-top: 30px;
+    height: 34px;
+    /* font-family: AvenirNext; */
+    font-size: 40px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #184161;
+}
+
+p1 {
+    color: #1ac7b8;
+}
+
+.Your-booking-is-conf {
+
+    height: 22px;
+    /* font-family: AvenirNext; */
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.2px;
+    text-align: center;
+    color: #184161;
+}
+
+.Your-booking-is-conf .text-style-1 {
+    color: #1ac7b8;
+}
+
+.Your-booking-is-conf .text-style-2 {
+    font-weight: 500;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
