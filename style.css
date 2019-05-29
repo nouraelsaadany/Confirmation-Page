@@ -24,6 +24,52 @@
     text-align: center;
 }
 
+.dotted {
+    border: 1px dashed #eaeaea;
+    width: 387px;
+    /* text-align: left; */
+    margin-right: 52px;
+    height: 2px;
+    padding-right: 0px;
+}
+
+.table td {
+    padding-top: 0px;
+}
+
+.Total-paid-800-USD {
+    padding-top: 10px;
+    width: 175px;
+    height: 26px;
+    /* font-family: AvenirNext; */
+    font-size: 19px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #333333;
+}
+
+.Want-to-see-and-do-i {
+    margin-left: 210px;
+    margin-right: 0px;
+    padding-right: 0px;
+    padding-left: 7px;
+    padding-top: 22px;
+    width: 783px;
+    height: 31px;
+    /* font-family: AvenirNext; */
+    font-size: 23px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.2px;
+    /* text-align: center; */
+    color: #235187;
+}
+
 .Line-6 {
     margin-top: 8px;
     text-align: center;
@@ -97,10 +143,7 @@ p1 {
 }
 
 .Trip-Summary {
-    padding-left: 100px;
-    padding-top: 36px;
     width: 102px;
-    height: 22px;
     /* font-family: AvenirNext; */
     font-size: 16px;
     font-weight: 500;
@@ -109,4 +152,63 @@ p1 {
     line-height: normal;
     letter-spacing: normal;
     color: #0d2e51;
+}
+
+.table td {
+    padding-left: 0px;
+}
+
+.Sub-Div {
+    padding-left: 114px;
+    padding-top: 36px;
+}
+
+.Right-Border {
+    border-right: 1px solid #e4e4e4;
+    float: left;
+    box-sizing: border-box;
+}
+
+.Trip-Summary-Div {
+    padding-left: 84px;
+    padding-top: 36px;
+}
+
+.Line-4 {
+    width: 3px;
+    height: 385px;
+    border: solid 1px #e4e4e4;
+}
+
+.User-Details {
+    width: 339px;
+    height: 72px;
+    /* font-family: AvenirNext; */
+    font-size: 15px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.6;
+    letter-spacing: -0.2px;
+    word-spacing: 30px;
+    color: #184161;
+}
+
+.Bitmap {
+    width: 260px;
+    height: 115px;
+}
+
+.Cairo-The-Oberoi-P {
+    width: 260px;
+    height: 19px;
+    padding-top: 15px;
+    /* font-family: AvenirNext; */
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #184161;
 }
